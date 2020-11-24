@@ -1,1 +1,3 @@
 # batchhypothetical
+
+This repo consist of basic .Net SDK C# code that deals with Azure Batch Service...
